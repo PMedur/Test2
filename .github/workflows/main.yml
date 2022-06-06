@@ -3,7 +3,7 @@ on:
   create:
     types:
       - label
-      - issue
+      - issues
 jobs:
   clabel_issues:
     runs-on: ubuntu-latest
